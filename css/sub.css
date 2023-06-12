@@ -1,0 +1,180 @@
+:root {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 700;
+}
+
+.bXrFbr {
+    background-color: #F2F5F8;
+    position: relative;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 100%;
+}
+.kzzVFj {
+    padding: 200px 0;
+}
+/*!sc*/
+.eulWEG {
+    text-align: center;
+    font-family: var(--font-family);
+    font-size: 4.0rem;
+    font-weight: 700;
+    line-height: 130%;
+    color: #fff;
+    -webkit-letter-spacing: -0.01em;
+    -moz-letter-spacing: -0.01em;
+    -ms-letter-spacing: -0.01em;
+    letter-spacing: -0.01em;
+}
+
+/*!sc*/
+@media (max-width: 836px) {
+    .eulWEG {
+        font-family: var(--font-family);
+        font-size:3.0rem;
+        font-weight: 600;
+        line-height: 130%;
+        color: #fff;
+        -webkit-letter-spacing: -0.02em;
+        -moz-letter-spacing: -0.02em;
+        -ms-letter-spacing: -0.02em;
+        letter-spacing: -0.02em;
+    }
+}
+/*!sc*/
+.gdGtAI {
+    display: grid;
+    row-gap: 32px;
+    -webkit-column-gap: 30px;
+    column-gap: 30px;
+    margin-top: 64px;
+    grid-template-columns: repeat(3,1fr);
+}
+
+/*!sc*/
+@media (max-width: 1200px) {
+    .gdGtAI {
+        grid-template-columns:repeat(2,1fr);
+    }
+}
+
+/*!sc*/
+@media (max-width: 836px) {
+    .gdGtAI {
+        grid-template-columns:repeat(1,1fr);
+    }
+}
+
+.bMKyGG {
+    width: 380px;
+    height: 268px;
+    border-radius: 20px;
+    background-color: #23272a;
+}
+
+.cbUWtT {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-align-items: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 0;
+    -webkit-filter: drop-shadow(0px 5px 40px rgba(64, 78, 237, 0.5));
+    filter: drop-shadow(0px 5px 40px rgba(64, 78, 237, 0.5));
+}
+/*!sc*/
+.cbUWtT .title-text {
+    color: #85888C;
+    font-family: var(--font-family);
+    font-size: 1.2rem;
+    font-weight: 600;
+    line-height: 160%;
+    -webkit-letter-spacing: -0.02em;
+    -moz-letter-spacing: -0.02em;
+    -ms-letter-spacing: -0.02em;
+    letter-spacing: -0.02em;
+}
+.cbUWtT .content-text {
+    font-family: var(--font-family);
+    font-size: 3.0rem;
+    font-weight: 700;
+    line-height: 140%;
+    -webkit-letter-spacing: 0;
+    -moz-letter-spacing: 0;
+    -ms-letter-spacing: 0;
+    letter-spacing: 0;
+}
+@media (max-width: 836px) {
+    .cbUWtT {
+        width:335px;
+        height: 220px;
+    }
+
+    .cbUWtT .title-text {
+        font-family: var(--font-family);
+        font-size: 1.4rem;
+        font-weight: 600;
+        line-height: 160%;
+        -webkit-letter-spacing: -0.02em;
+        -moz-letter-spacing: -0.02em;
+        -ms-letter-spacing: -0.02em;
+        letter-spacing: -0.02em;
+    }
+
+    .cbUWtT .content-text {
+        font-family: var(--font-family);
+        font-size: 2.1rem;
+        font-weight: 700;
+        line-height: 130%;
+        -webkit-letter-spacing: -0.01em;
+        -moz-letter-spacing: -0.01em;
+        -ms-letter-spacing: -0.01em;
+        letter-spacing: -0.01em;
+    }
+}
+
+
+/*!sc*/
+data-styled.g23[id="sc-dJjYzT"] {
+    content: "bXrFbr,"
+}
+data-styled.g30[id="sc-cxpSdN"] {
+    content: "kzzVFj,"
+}
+data-styled.g42[id="sc-cidDSM"] {
+    content: "eulWEG,"
+}
+data-styled.g31[id="sc-llYSUQ"] {
+    content: "gdGtAI,"
+}
+data-styled.g2[id="sc-gsDKAQ"] {
+    content: "bMKyGG,"
+}
+/*!sc*/
+data-styled.g51[id="sc-bBHHxi"] {
+    content: "cbUWtT,"
+}
+
